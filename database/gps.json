@@ -1,0 +1,178 @@
+[
+  {
+    "id": "bahrain-gp",
+    "gpImage": "bhr.png",
+    "gpName": "Bahrain GP",
+    "circuitName": "Bahrain International Circuit",
+    "day": "5",
+    "month": "Mar"
+  },
+  {
+    "id": "saudi-arabian-gp",
+    "gpImage": "sau.png",
+    "gpName": "Saudi Arabian GP",
+    "circuitName": "Jeddah Street Circuit",
+    "day": "19",
+    "month": "Mar"
+  },
+  {
+    "id": "australian-gp",
+    "gpImage": "aus.png",
+    "gpName": "Australian GP",
+    "circuitName": "Albert Park",
+    "day": "2",
+    "month": "Apr"
+  },
+  {
+    "id": "azerbaijan-gp",
+    "gpImage": "aze.png",
+    "gpName": "Azerbaijan GP",
+    "circuitName": "Baku City Circuit",
+    "day": "30",
+    "month": "Apr"
+  },
+  {
+    "id": "gp-miami",
+    "gpImage": "usa.png",
+    "gpName": "Miami GP",
+    "circuitName": "Miami International Autodrome",
+    "day": "7",
+    "month": "May"
+  },
+  {
+    "id": "monaco-gp",
+    "gpImage": "mco.png",
+    "gpName": "Monaco GP",
+    "circuitName": "Circuit de Monaco",
+    "day": "28",
+    "month": "May"
+  },
+  {
+    "id": "spanish-gp",
+    "gpImage": "esp.png",
+    "gpName": "Spanish GP",
+    "circuitName": "Circuit de Catalunya",
+    "day": "4",
+    "month": "Jun"
+  },
+  {
+    "id": "canadian-gp",
+    "gpImage": "can.png",
+    "gpName": "Canadian GP",
+    "circuitName": "Circuit Gilles Villeneuve",
+    "day": "18",
+    "month": "Jun"
+  },
+  {
+    "id": "austrian-gp",
+    "gpImage": "aut.png",
+    "gpName": "Austrian GP",
+    "circuitName": "Red Bull Ring",
+    "day": "2",
+    "month": "Jul"
+  },
+  {
+    "id": "british-gp",
+    "gpImage": "gbr.png",
+    "gpName": "British GP",
+    "circuitName": "Circuit Silverstone",
+    "day": "9",
+    "month": "Jul"
+  },
+  {
+    "id": "hungarian-gp",
+    "gpImage": "hun.png",
+    "gpName": "Hungarian GP",
+    "circuitName": "Hungaroring",
+    "day": "23",
+    "month": "Jul"
+  },
+  {
+    "id": "belgian-gp",
+    "gpImage": "bel.png",
+    "gpName": "Belgian GP",
+    "circuitName": "Spa-Francorchamps",
+    "day": "30",
+    "month": "Jul"
+  },
+  {
+    "id": "dutch-gp",
+    "gpImage": "nld.png",
+    "gpName": "Dutch GP",
+    "circuitName": "Circuit Zandvoort",
+    "day": "27",
+    "month": "Aug"
+  },
+  {
+    "id": "italian-gp",
+    "gpImage": "ita.png",
+    "gpName": "Italian GP",
+    "circuitName": "Autodromo Nazionale Monza",
+    "day": "3",
+    "month": "Sep"
+  },
+  {
+    "id": "singapore-gp",
+    "gpImage": "sgp.png",
+    "gpName": "Singapore GP",
+    "circuitName": "Marina Bay Street Circuit",
+    "day": "17",
+    "month": "Sep"
+  },
+  {
+    "id": "japanese-gp",
+    "gpImage": "jpn.png",
+    "gpName": "Japanese GP",
+    "circuitName": "Suzuka Circuit",
+    "day": "24",
+    "month": "Sep"
+  },
+  {
+    "id": "gp-qatar",
+    "gpImage": "qat.png",
+    "gpName": "Qatar GP",
+    "circuitName": "Losail International Circuit",
+    "day": "8",
+    "month": "Oct"
+  },
+  {
+    "id": "united-states-gp",
+    "gpImage": "usa.png",
+    "gpName": "United States GP",
+    "circuitName": "Circuit of the Americas",
+    "day": "22",
+    "month": "Oct"
+  },
+  {
+    "id": "mexican-gp",
+    "gpImage": "mex.png",
+    "gpName": "Mexican GP",
+    "circuitName": "Autodromo Hermanos Rodriguez",
+    "day": "29",
+    "month": "Oct"
+  },
+  {
+    "id": "brazilian-gp",
+    "gpImage": "bra.png",
+    "gpName": "Brazilian GP",
+    "circuitName": "Autodromo Jose Carlos Pace Interlagos",
+    "day": "5",
+    "month": "Nov"
+  },
+  {
+    "id": "gp-las-vegas",
+    "gpImage": "usa.png",
+    "gpName": "Las Vegas GP",
+    "circuitName": "Las Vegas Street Circuit",
+    "day": "19",
+    "month": "Nov"
+  },
+  {
+    "id": "abu-dhabi-gp",
+    "gpImage": "are.png",
+    "gpName": "Abu Dhabi GP",
+    "circuitName": "Yas Marina Circuit",
+    "day": "26",
+    "month": "Nov"
+  }
+]

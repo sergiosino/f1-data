@@ -1,0 +1,904 @@
+[
+  {
+    "id": "bahrain-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-03-03T12:30:00+01:00",
+        "end": "2023-03-03T13:30:00+01:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-03-03T16:00:00+01:00",
+        "end": "2023-03-03T17:00:00+01:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-03-04T12:30:00+01:00",
+        "end": "2023-03-04T13:30:00+01:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-03-04T16:00:00+01:00",
+        "end": "2023-03-04T17:00:00+01:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-03-05T16:00:00+01:00",
+        "end": "2023-03-05T18:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2004",
+      "laps": "57",
+      "circuitLength": "5.412 kilometres",
+      "fastestRaceLap": "1:30.252 (2004)"
+    }
+  },
+  {
+    "id": "saudi-arabian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-03-17T14:30:00+01:00",
+        "end": "2023-03-17T15:30:00+01:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-03-17T18:00:00+01:00",
+        "end": "2023-03-17T19:00:00+01:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-03-18T14:30:00+01:00",
+        "end": "2023-03-18T15:30:00+01:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-03-18T18:00:00+01:00",
+        "end": "2023-03-18T19:00:00+01:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-03-19T18:00:00+01:00",
+        "end": "2023-03-19T20:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2021",
+      "laps": "50",
+      "circuitLength": "6.174 kilometres",
+      "fastestRaceLap": "1:30.734 (2021)"
+    }
+  },
+  {
+    "id": "australian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-03-31T03:30:00+02:00",
+        "end": "2023-03-31T04:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-03-31T07:00:00+02:00",
+        "end": "2023-03-31T08:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-04-01T03:30:00+02:00",
+        "end": "2023-04-01T04:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-04-01T07:00:00+02:00",
+        "end": "2023-04-01T08:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-04-02T07:00:00+02:00",
+        "end": "2023-04-02T09:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1985",
+      "laps": "58",
+      "circuitLength": "5.278 kilometres",
+      "fastestRaceLap": "1:20.260 (2022)"
+    }
+  },
+  {
+    "id": "azerbaijan-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-04-28T11:30:00+02:00",
+        "end": "2023-04-28T12:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-04-28T15:00:00+02:00",
+        "end": "2023-04-28T16:00:00+02:00"
+      },
+      {
+        "shortName": "Shootout",
+        "longName": "Sprint shootout",
+        "start": "2023-04-29T10:30:00+02:00",
+        "end": "2023-04-29T11:30:00+02:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-04-29T15:30:00+02:00",
+        "end": "2023-04-29T16:30:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-04-30T13:00:00+02:00",
+        "end": "2023-04-30T15:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2016",
+      "laps": "51",
+      "circuitLength": "6.003 kilometres",
+      "fastestRaceLap": "1:43.009 (2019)"
+    }
+  },
+  {
+    "id": "gp-miami",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-05-05T20:00:00+02:00",
+        "end": "2023-05-05T21:00:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-05-05T23:30:00+02:00",
+        "end": "2023-05-06T00:30:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-05-06T18:30:00+02:00",
+        "end": "2023-05-06T19:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-05-06T22:00:00+02:00",
+        "end": "2023-05-06T23:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-05-07T21:30:00+02:00",
+        "end": "2023-05-07T23:30:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2022",
+      "laps": "57",
+      "circuitLength": "5.412 kilometres",
+      "fastestRaceLap": "1:31.361 (2022)"
+    }
+  },
+  {
+    "id": "monaco-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-05-26T13:30:00+02:00",
+        "end": "2023-05-26T14:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-05-26T17:00:00+02:00",
+        "end": "2023-05-26T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-05-27T12:30:00+02:00",
+        "end": "2023-05-27T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-05-27T16:00:00+02:00",
+        "end": "2023-05-27T17:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-05-28T15:00:00+02:00",
+        "end": "2023-05-28T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1950",
+      "laps": "78",
+      "circuitLength": "3.337 kilometres",
+      "fastestRaceLap": "1:12.909 (2021)"
+    }
+  },
+  {
+    "id": "spanish-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-06-02T13:30:00+02:00",
+        "end": "2023-06-02T14:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-06-02T17:00:00+02:00",
+        "end": "2023-06-02T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-06-03T12:30:00+02:00",
+        "end": "2023-06-03T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-06-03T16:00:00+02:00",
+        "end": "2023-06-03T17:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-06-04T15:00:00+02:00",
+        "end": "2023-06-04T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1991",
+      "laps": "66",
+      "circuitLength": "4.675 kilometres",
+      "fastestRaceLap": "1:18.149 (2021)"
+    }
+  },
+  {
+    "id": "canadian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-06-16T19:30:00+02:00",
+        "end": "2023-06-16T20:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-06-16T23:00:00+02:00",
+        "end": "2023-06-17T00:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-06-17T18:30:00+02:00",
+        "end": "2023-06-17T19:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-06-17T22:00:00+02:00",
+        "end": "2023-06-17T23:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-06-18T20:00:00+02:00",
+        "end": "2023-06-18T22:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1967",
+      "laps": "70",
+      "circuitLength": "4.361 kilometres",
+      "fastestRaceLap": "1:13.078 (2019)"
+    }
+  },
+  {
+    "id": "austrian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-06-30T13:30:00+02:00",
+        "end": "2023-06-30T14:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-06-30T17:00:00+02:00",
+        "end": "2023-06-30T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-07-01T12:30:00+02:00",
+        "end": "2023-07-01T13:30:00+02:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-07-01T16:30:00+02:00",
+        "end": "2023-07-01T17:30:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-07-02T15:00:00+02:00",
+        "end": "2023-07-02T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1964",
+      "laps": "71",
+      "circuitLength": "4.318 kilometres",
+      "fastestRaceLap": "1:05.619 (2020)"
+    }
+  },
+  {
+    "id": "british-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-07-07T13:30:00+02:00",
+        "end": "2023-07-07T14:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-07-07T17:00:00+02:00",
+        "end": "2023-07-07T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-07-08T12:30:00+02:00",
+        "end": "2023-07-08T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-07-08T16:00:00+02:00",
+        "end": "2023-07-08T17:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-07-09T16:00:00+02:00",
+        "end": "2023-07-09T18:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1950",
+      "laps": "52",
+      "circuitLength": "5.891 kilometres",
+      "fastestRaceLap": "1:27.097 (2020)"
+    }
+  },
+  {
+    "id": "hungarian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-07-21T13:30:00+02:00",
+        "end": "2023-07-21T14:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-07-21T17:00:00+02:00",
+        "end": "2023-07-21T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-07-22T12:30:00+02:00",
+        "end": "2023-07-22T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-07-22T16:00:00+02:00",
+        "end": "2023-07-22T17:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-07-23T15:00:00+02:00",
+        "end": "2023-07-23T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1986",
+      "laps": "70",
+      "circuitLength": "4.381 kilometres",
+      "fastestRaceLap": "1:16.627 (2020)"
+    }
+  },
+  {
+    "id": "belgian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-07-28T13:30:00+02:00",
+        "end": "2023-07-28T14:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-07-28T17:00:00+02:00",
+        "end": "2023-07-28T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-07-29T12:30:00+02:00",
+        "end": "2023-07-29T13:30:00+02:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-07-29T16:30:00+02:00",
+        "end": "2023-07-29T17:30:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-07-30T15:00:00+02:00",
+        "end": "2023-07-30T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1950",
+      "laps": "44",
+      "circuitLength": "7.004 kilometres",
+      "fastestRaceLap": "1:46.286 (2018)"
+    }
+  },
+  {
+    "id": "dutch-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-08-25T12:30:00+02:00",
+        "end": "2023-08-25T13:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-08-25T16:00:00+02:00",
+        "end": "2023-08-25T17:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-08-26T11:30:00+02:00",
+        "end": "2023-08-26T12:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-08-26T15:00:00+02:00",
+        "end": "2023-08-26T16:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-08-27T15:00:00+02:00",
+        "end": "2023-08-27T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1952",
+      "laps": "72",
+      "circuitLength": "4.259 kilometres",
+      "fastestRaceLap": "1:11.097 (2021)"
+    }
+  },
+  {
+    "id": "italian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-09-01T13:30:00+02:00",
+        "end": "2023-09-01T14:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-09-01T17:00:00+02:00",
+        "end": "2023-09-01T18:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-09-02T12:30:00+02:00",
+        "end": "2023-09-02T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-09-02T16:00:00+02:00",
+        "end": "2023-09-02T17:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-09-03T15:00:00+02:00",
+        "end": "2023-09-03T17:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1950",
+      "laps": "53",
+      "circuitLength": "5.793 kilometres",
+      "fastestRaceLap": "1:21.046 (2004)"
+    }
+  },
+  {
+    "id": "singapore-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-09-15T11:30:00+02:00",
+        "end": "2023-09-15T12:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-09-15T15:00:00+02:00",
+        "end": "2023-09-15T16:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-09-16T11:30:00+02:00",
+        "end": "2023-09-16T12:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-09-16T15:00:00+02:00",
+        "end": "2023-09-16T16:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-09-17T14:00:00+02:00",
+        "end": "2023-09-17T16:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2008",
+      "laps": "61",
+      "circuitLength": "5.063 kilometres",
+      "fastestRaceLap": "1:41.905 (2018)"
+    }
+  },
+  {
+    "id": "japanese-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-09-22T04:30:00+02:00",
+        "end": "2023-09-22T05:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-09-22T08:00:00+02:00",
+        "end": "2023-09-22T09:00:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-09-23T04:30:00+02:00",
+        "end": "2023-09-23T05:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-09-23T08:00:00+02:00",
+        "end": "2023-09-23T09:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-09-24T07:00:00+02:00",
+        "end": "2023-09-24T09:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1976",
+      "laps": "53",
+      "circuitLength": "5.807 kilometres",
+      "fastestRaceLap": "1:30.983 (2019)"
+    }
+  },
+  {
+    "id": "gp-qatar",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-10-06T12:30:00+02:00",
+        "end": "2023-10-06T13:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-10-06T16:00:00+02:00",
+        "end": "2023-10-06T17:00:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-10-07T12:30:00+02:00",
+        "end": "2023-10-07T13:30:00+02:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-10-07T16:30:00+02:00",
+        "end": "2023-10-07T17:30:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-10-08T16:00:00+02:00",
+        "end": "2023-10-08T18:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2021",
+      "laps": "57",
+      "circuitLength": "5.380 kilometres",
+      "fastestRaceLap": "1:23.196 (2021)"
+    }
+  },
+  {
+    "id": "united-states-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-10-20T19:30:00+02:00",
+        "end": "2023-10-20T20:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-10-20T23:00:00+02:00",
+        "end": "2023-10-21T00:00:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-10-21T20:00:00+02:00",
+        "end": "2023-10-21T21:00:00+02:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-10-22T00:00:00+02:00",
+        "end": "2023-10-22T01:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-10-22T21:00:00+02:00",
+        "end": "2023-10-22T23:00:00+02:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1959",
+      "laps": "56",
+      "circuitLength": "5.513 kilometres",
+      "fastestRaceLap": "1:36.169 (2019)"
+    }
+  },
+  {
+    "id": "mexican-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-10-27T20:30:00+02:00",
+        "end": "2023-10-27T21:30:00+02:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-10-28T00:00:00+02:00",
+        "end": "2023-10-28T01:30:00+02:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-10-28T19:30:00+02:00",
+        "end": "2023-10-28T18:30:00+02:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-10-28T23:00:00+02:00",
+        "end": "2023-10-29T00:00:00+02:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-10-29T21:00:00+01:00",
+        "end": "2023-10-29T23:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1963",
+      "laps": "71",
+      "circuitLength": "4.304 kilometres",
+      "fastestRaceLap": "1:17.774 (2021)"
+    }
+  },
+  {
+    "id": "brazilian-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-11-03T15:30:00+01:00",
+        "end": "2023-11-03T16:30:00+01:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-11-03T19:00:00+01:00",
+        "end": "2023-11-03T20:00:00+01:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-11-04T15:30:00+01:00",
+        "end": "2023-11-04T16:30:00+01:00"
+      },
+      {
+        "shortName": "Sprint",
+        "longName": "Sprintrace",
+        "start": "2023-11-04T19:30:00+01:00",
+        "end": "2023-11-04T20:30:00+01:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-11-05T18:00:00+01:00",
+        "end": "2023-11-05T20:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "1973",
+      "laps": "71",
+      "circuitLength": "4.309 kilometres",
+      "fastestRaceLap": "1:10.540 (2018)"
+    }
+  },
+  {
+    "id": "gp-las-vegas",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-11-17T05:30:00+01:00",
+        "end": "2023-11-17T06:30:00+01:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-11-17T09:00:00+01:00",
+        "end": "2023-11-17T10:00:00+01:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-11-18T05:30:00+01:00",
+        "end": "2023-11-18T06:30:00+01:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-11-18T09:00:00+01:00",
+        "end": "2023-11-18T10:00:00+01:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-11-19T07:00:00+01:00",
+        "end": "2023-11-19T09:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2023",
+      "laps": "50",
+      "circuitLength": "6.120 kilometres",
+      "fastestRaceLap": "-"
+    }
+  },
+  {
+    "id": "abu-dhabi-gp",
+    "calendar": [
+      {
+        "shortName": "FP1",
+        "longName": "Free practice 1",
+        "start": "2023-11-24T10:30:00+01:00",
+        "end": "2023-11-24T11:30:00+01:00"
+      },
+      {
+        "shortName": "FP2",
+        "longName": "Free practice 2",
+        "start": "2023-11-24T14:00:00+01:00",
+        "end": "2023-11-24T15:00:00+01:00"
+      },
+      {
+        "shortName": "FP3",
+        "longName": "Free practice 3",
+        "start": "2023-11-25T11:30:00+01:00",
+        "end": "2023-11-25T12:30:00+01:00"
+      },
+      {
+        "shortName": "Quali",
+        "longName": "Qualification",
+        "start": "2023-11-25T15:00:00+01:00",
+        "end": "2023-11-25T16:00:00+01:00"
+      },
+      {
+        "shortName": "Race",
+        "longName": "Race",
+        "start": "2023-11-26T14:00:00+01:00",
+        "end": "2023-11-26T16:00:00+01:00"
+      }
+    ],
+    "stats": {
+      "firstHeld": "2009",
+      "laps": "58",
+      "circuitLength": "5.281 kilometres",
+      "fastestRaceLap": "1:26.103 (2021)"
+    }
+  }
+]
