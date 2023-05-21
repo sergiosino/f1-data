@@ -1,32 +1,28 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import './app.css'
+import GpCard from './components/GpCard'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank" rel="noreferrer">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <header>
+        <div className="header">
+          <img className='f1-logo' src='f1_logo.svg' alt='Formula 1' />
+        </div>
+      </header>
+      <main>
+        <section>
+          <div className='title-border-container'>
+            <h1>F1 Schedule 2023</h1>
+            <p>2023 FIA FORMULA ONE WORLD CHAMPIONSHIP™ RACE CALENDAR</p>
+          </div>
+        </section>
+        <section>
+          <GpCard />
+          <GpCard />
+          <GpCard />
+        </section>
+      </main>
     </>
   )
 }

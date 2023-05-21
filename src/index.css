@@ -1,0 +1,80 @@
+body {
+    margin: 0px;
+}
+
+main {
+    margin: 64px auto 0px auto;
+    padding: 0px 10px;
+}
+
+.font-f1 {
+    font-family: Formula1;
+}
+
+.font-f1-bold {
+    font-family: Formula1;
+    font-weight: bold;
+}
+
+h1, h2, h3, p {
+    font-family: Formula1;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 14px;
+}
+
+legend {
+    font-family: Formula1;
+    font-size: 15px;
+    color: #e10600;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+@media (min-width: 576px) {
+    main {
+        max-width: 576px;
+    }
+}
+
+@media (min-width: 768px) {
+    main {
+        max-width: 768px;
+    }
+
+    h1 {
+        font-size: 62px;
+    }
+}
+
+@media (min-width: 1024px) {
+    main {
+        max-width: 986px;
+    }
+}
+
+@media (min-width: 1360px) {
+    main {
+        max-width: 1320px;
+    }
+}
+
+@font-face {
+    font-family: 'Formula1';
+    src: local('Formula1'), url(../fonts/Formula1-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Formula1';
+    font-weight: bold;
+    src: local('Formula1'), url(../fonts/Formula1-Bold.otf) format('opentype');
+}
