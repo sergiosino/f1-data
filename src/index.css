@@ -1,3 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --red-color: #e10600;
+    --light-gray-color: #949498;
+}
+
 body {
     margin: 0px;
 }
@@ -7,16 +16,10 @@ main {
     padding: 0px 10px;
 }
 
-.font-f1 {
-    font-family: Formula1;
-}
-
-.font-f1-bold {
-    font-family: Formula1;
-    font-weight: bold;
-}
-
-h1, h2, h3, p {
+h1,
+h2,
+h3,
+p {
     font-family: Formula1;
     margin: 0px;
 }
@@ -32,12 +35,33 @@ p {
 legend {
     font-family: Formula1;
     font-size: 15px;
-    color: #e10600;
+    color: var(--red-color);
 }
 
 img {
     width: 100%;
     display: block;
+}
+
+legend {
+    padding-right: 10px;
+}
+
+.font-f1 {
+    font-family: Formula1;
+}
+
+.font-f1-bold {
+    font-family: Formula1;
+    font-weight: bold;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.color-red {
+    color: var(--red-color);
 }
 
 @media (min-width: 576px) {
