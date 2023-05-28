@@ -4,6 +4,7 @@ import { scrape } from './utils.js'
 const { BASE, GRANDS_PRIX_CALENDAR } = SCRAPE_URLS
 
 export async function getGrandsPrix() {
+    console.log('Retrieving the list of Grand Prix races')
     const $ = await scrape(`${BASE}/${GRANDS_PRIX_CALENDAR}`)
 
     const $tableRows = $('.table-default--calendar > tbody > tr')
@@ -29,5 +30,6 @@ export async function getGrandsPrix() {
         })
     }
 
+    console.log(`A total of ${gps.length} Grand Prix races have been recovered`)
     return gps
 }

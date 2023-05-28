@@ -1,13 +1,10 @@
 import { SCRAPE_URLS } from "./constants.js"
-import { fetchGet, removeTabsAndNewLines, scrape } from "./utils.js"
+import { fetchGet, scrape } from "./utils.js"
 
 const { BASE } = SCRAPE_URLS
 
 async function getEventResult(url) {
     const $ = await scrape(url)
-
-    const eventTitle = removeTabsAndNewLines($('.content-field__live > div > div > div > h3').text())
-    const eventName = eventTitle.replace('Result ', '').split(' - ')[0]
 
     const resultsEndpoint = $('.js-race-results').prop('data-feed')
     const urlResultsEndpoint = `${BASE}${resultsEndpoint}`
@@ -27,7 +24,6 @@ async function getEventResult(url) {
     })
 
     return {
-        name: eventName,
         results
     }
 }
@@ -40,18 +36,27 @@ export async function getGrandPrixResults(gpId) {
     const events = []
     for (const calendarElement of $calendarList) {
         const $calendarElement = $(calendarElement)
+
+        const longName = $calendarElement.find('.stats-header__calendar-item__subevent--long').text()
+        const shortName = $calendarElement.find('.stats-header__calendar-item__subevent--short').text()
+
         const eventResultsUrl = $calendarElement.find('.stats-header__calendar-item__link')?.prop('href')
 
         // Get the results if they are available
         if (eventResultsUrl) {
             const eventResults = await getEventResult(eventResultsUrl)
-            events.push(eventResults)
+            events.push({
+                longName,
+                shortName,
+                ...eventResults
+            })
         }
     }
 
     // If exists a Race event, the gp is completed
-    const isCompleted = !!events.find(event => event.name === 'Race')
+    const isCompleted = !!events.find(event => event.shortName === 'Race')
 
+    console.log(`The results for Grand Prix ${gpId} have been recovered`)
     return {
         id: gpId,
         isCompleted,

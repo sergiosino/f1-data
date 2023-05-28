@@ -62,6 +62,7 @@ export async function getGrandPrixInfo(gpId) {
         }
     })
 
+    console.log(`The information for Grand Prix ${gpId} has been recovered`)
     return {
         id: gpId,
         calendar,

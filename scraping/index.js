@@ -8,8 +8,8 @@ const { GPS, GPS_INFO, GPS_RESULTS } = FILE_NAMES
 const { ALL, REFRESH } = COMMAND_PARAMETERS
 
 async function all() {
+    console.log('The recovery of all data has begun')
     const gps = await getGrandsPrix()
-    writeDatabaseFile(GPS, gps)
 
     const gpsInfo = []
     const gpsResults = []
@@ -22,11 +22,16 @@ async function all() {
         const gpResults = await getGrandPrixResults(id)
         gpsResults.push(gpResults)
     }
+    
+    console.log('The recovery of all data has been completed, and it will be saved in JSON files')
+    writeDatabaseFile(GPS, gps)
     writeDatabaseFile(GPS_INFO, gpsInfo)
     writeDatabaseFile(GPS_RESULTS, gpsResults)
+    console.log('Process completed')
 }
 
 async function refresh() {
+    console.log('The data refresh process has begun')
     const gpsResults = await readDBFile(GPS_RESULTS)
     const updatedGpsResults = []
 
@@ -43,7 +48,9 @@ async function refresh() {
         updatedGpsResults.push(updatedGpResults)
     }
 
+    console.log('The data refresh process has been completed, and it will be saved in JSON files')
     writeDatabaseFile(GPS_RESULTS, updatedGpsResults)
+    console.log('Process completed')
 }
 
 // Get first param
