@@ -1,17 +1,15 @@
 import { useEffect } from 'react'
 import './app.css'
-import GpCard from './components/GpCard'
+import GpCard from './components/GpCard/GpCard'
 import { getAllSeasonGps } from './services/gpsService'
 import { useState } from 'react'
 
 function App() {
 
   const [gps, setGps] = useState([])
-  console.log(gps)
 
   useEffect(() => {
-    getAllSeasonGps()
-      .then(gps => setGps(gps))
+    getAllSeasonGps().then(setGps)
   }, [])
 
   return (
@@ -30,22 +28,19 @@ function App() {
         </section>
         <section>
           <div className='gps'>
-            {gps.map((gp, index) => {
-              const round = index + 1
-              const { circuitName, day, gpImage, id, month } = gp
-
-              return (
-                <GpCard
-                  key={id}
-                  round={round}
-                  dayMonthNumber={day}
-                  monthShort={month}
-                  country='Country'
-                  flag={gpImage}
-                  name={circuitName}
-                />
-              )
-            })}
+            {gps.map(({ id, round, image, name, circuitName, start, end, isCompleted, topThree }) => (
+              <GpCard
+                key={id}
+                round={round}
+                country={name}
+                flag={image}
+                name={circuitName}
+                start={start}
+                end={end}
+                isCompleted={isCompleted}
+                topThree={topThree}
+              />
+            ))}
           </div>
         </section>
       </main>
