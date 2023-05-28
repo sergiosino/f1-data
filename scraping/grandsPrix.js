@@ -13,16 +13,16 @@ export async function getGrandsPrix() {
     for (const tableRow of $tableRows) {
         const $tableRow = $(tableRow)
 
-        const gpId = $tableRow.prop('data-href').split('/').reverse()[0]
-        const gpImage = $tableRow.find('.table__text--primary > img').prop('src').split('/').reverse()[0]
-        const gpName = $tableRow.find('.table__text--primary > strong').text()
+        const id = $tableRow.prop('data-href').split('/').reverse()[0]
+        const image = $tableRow.find('.table__text--primary > img').prop('src').split('/').reverse()[0]
+        const name = $tableRow.find('.table__text--primary > strong').text()
         const circuitName = $tableRow.find('td > .table__text--secondary').text()
 
         gps.push({
-            id: gpId,
+            id,
             round: round++,
-            gpImage,
-            gpName,
+            image,
+            name,
             circuitName,
         })
     }
