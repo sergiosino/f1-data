@@ -7,6 +7,7 @@ on:
 deploy:
     runs-on: ubuntu-22.04
     timeout-minutes: 5
+    name: Deploy f1-data API
     if: github.repository_owner == 'midudev'
     environment: Production
     steps:

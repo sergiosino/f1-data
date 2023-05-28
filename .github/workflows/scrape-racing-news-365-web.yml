@@ -1,4 +1,5 @@
 name: Scrape racingnews365 web to refresh gps results
+
 on:
   workflow_dispatch:
   repository_dispatch:
@@ -9,6 +10,7 @@ on:
     - cron: '0 */2 * * 6'
     - cron: '0 */1 * * 0'
     - cron: '0 0 * * 1,2,3,4'
+
 jobs:
   build:
     runs-on: ubuntu-22.04
