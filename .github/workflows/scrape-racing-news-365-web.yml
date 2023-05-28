@@ -1,0 +1,28 @@
+name: Scrape racingnews365 web to refresh gps results
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - webhook
+  schedule:
+    - cron: '0 */4 * * 5'
+    - cron: '0 */2 * * 6'
+    - cron: '0 */1 * * 0'
+    - cron: '0 0 * * 1,2,3,4'
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7.18.2
+          run_install: true
+      - run: |
+          npm run scrape:refresh
+          git config user.name f1-data-bot
+          git diff --quiet && git diff --staged --quiet || git commit -am "[f1-data-bot] Refresh results db"
+          git push origin master
