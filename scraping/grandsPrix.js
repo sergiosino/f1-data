@@ -9,6 +9,7 @@ export async function getGrandsPrix() {
 
     const $tableRows = $('.table-default--calendar > tbody > tr')
     const gps = []
+    let round = 1
     for (const tableRow of $tableRows) {
         const $tableRow = $(tableRow)
 
@@ -19,6 +20,7 @@ export async function getGrandsPrix() {
 
         gps.push({
             id: gpId,
+            round: round++,
             gpImage,
             gpName,
             circuitName,
