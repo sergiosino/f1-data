@@ -1,0 +1,48 @@
+
+.race-border-container {
+    border-top: solid 2px black;
+    border-right: solid 2px black;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top-right-radius: 10px;
+    margin: 0px;
+    margin-top: 40px;
+    padding: 0px;
+    padding-right: 10px;
+}
+
+.event-info-date {
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--light-gray-color);
+}
+
+.date-flag-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flag-container {
+    width: 38px;
+    height: fit-content;
+    border: 1px solid var(--light-gray-color);
+    border-radius: 3px;
+}
+
+.month-container {
+    background: black;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.event-info-description {
+    padding: 15px 0px;
+    border-bottom: 1px solid var(--light-gray-color);
+}
+
+.event-info-top-3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-top: 10px;
+}
