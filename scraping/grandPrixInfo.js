@@ -31,8 +31,8 @@ export async function getGrandPrixInfo(gpId) {
         calendar.push({
             shortName,
             longName,
-            start: startEnd[0],
-            end: startEnd[1]
+            start: new Date(startEnd[0]).toUTCString(),
+            end: new Date(startEnd[1]).toUTCString()
         })
     })
 

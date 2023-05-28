@@ -5,32 +5,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-03-03T12:30:00+01:00",
-        "end": "2023-03-03T13:30:00+01:00"
+        "start": "Fri, 03 Mar 2023 11:30:00 GMT",
+        "end": "Fri, 03 Mar 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-03-03T16:00:00+01:00",
-        "end": "2023-03-03T17:00:00+01:00"
+        "start": "Fri, 03 Mar 2023 15:00:00 GMT",
+        "end": "Fri, 03 Mar 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-03-04T12:30:00+01:00",
-        "end": "2023-03-04T13:30:00+01:00"
+        "start": "Sat, 04 Mar 2023 11:30:00 GMT",
+        "end": "Sat, 04 Mar 2023 12:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-03-04T16:00:00+01:00",
-        "end": "2023-03-04T17:00:00+01:00"
+        "start": "Sat, 04 Mar 2023 15:00:00 GMT",
+        "end": "Sat, 04 Mar 2023 16:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-03-05T16:00:00+01:00",
-        "end": "2023-03-05T18:00:00+01:00"
+        "start": "Sun, 05 Mar 2023 15:00:00 GMT",
+        "end": "Sun, 05 Mar 2023 17:00:00 GMT"
       }
     ],
     "stats": {
@@ -46,32 +46,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-03-17T14:30:00+01:00",
-        "end": "2023-03-17T15:30:00+01:00"
+        "start": "Fri, 17 Mar 2023 13:30:00 GMT",
+        "end": "Fri, 17 Mar 2023 14:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-03-17T18:00:00+01:00",
-        "end": "2023-03-17T19:00:00+01:00"
+        "start": "Fri, 17 Mar 2023 17:00:00 GMT",
+        "end": "Fri, 17 Mar 2023 18:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-03-18T14:30:00+01:00",
-        "end": "2023-03-18T15:30:00+01:00"
+        "start": "Sat, 18 Mar 2023 13:30:00 GMT",
+        "end": "Sat, 18 Mar 2023 14:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-03-18T18:00:00+01:00",
-        "end": "2023-03-18T19:00:00+01:00"
+        "start": "Sat, 18 Mar 2023 17:00:00 GMT",
+        "end": "Sat, 18 Mar 2023 18:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-03-19T18:00:00+01:00",
-        "end": "2023-03-19T20:00:00+01:00"
+        "start": "Sun, 19 Mar 2023 17:00:00 GMT",
+        "end": "Sun, 19 Mar 2023 19:00:00 GMT"
       }
     ],
     "stats": {
@@ -87,32 +87,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-03-31T03:30:00+02:00",
-        "end": "2023-03-31T04:30:00+02:00"
+        "start": "Fri, 31 Mar 2023 01:30:00 GMT",
+        "end": "Fri, 31 Mar 2023 02:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-03-31T07:00:00+02:00",
-        "end": "2023-03-31T08:00:00+02:00"
+        "start": "Fri, 31 Mar 2023 05:00:00 GMT",
+        "end": "Fri, 31 Mar 2023 06:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-04-01T03:30:00+02:00",
-        "end": "2023-04-01T04:30:00+02:00"
+        "start": "Sat, 01 Apr 2023 01:30:00 GMT",
+        "end": "Sat, 01 Apr 2023 02:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-04-01T07:00:00+02:00",
-        "end": "2023-04-01T08:00:00+02:00"
+        "start": "Sat, 01 Apr 2023 05:00:00 GMT",
+        "end": "Sat, 01 Apr 2023 06:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-04-02T07:00:00+02:00",
-        "end": "2023-04-02T09:00:00+02:00"
+        "start": "Sun, 02 Apr 2023 05:00:00 GMT",
+        "end": "Sun, 02 Apr 2023 07:00:00 GMT"
       }
     ],
     "stats": {
@@ -128,32 +128,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-04-28T11:30:00+02:00",
-        "end": "2023-04-28T12:30:00+02:00"
+        "start": "Fri, 28 Apr 2023 09:30:00 GMT",
+        "end": "Fri, 28 Apr 2023 10:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-04-28T15:00:00+02:00",
-        "end": "2023-04-28T16:00:00+02:00"
+        "start": "Fri, 28 Apr 2023 13:00:00 GMT",
+        "end": "Fri, 28 Apr 2023 14:00:00 GMT"
       },
       {
         "shortName": "Shootout",
         "longName": "Sprint shootout",
-        "start": "2023-04-29T10:30:00+02:00",
-        "end": "2023-04-29T11:30:00+02:00"
+        "start": "Sat, 29 Apr 2023 08:30:00 GMT",
+        "end": "Sat, 29 Apr 2023 09:30:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-04-29T15:30:00+02:00",
-        "end": "2023-04-29T16:30:00+02:00"
+        "start": "Sat, 29 Apr 2023 13:30:00 GMT",
+        "end": "Sat, 29 Apr 2023 14:30:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-04-30T13:00:00+02:00",
-        "end": "2023-04-30T15:00:00+02:00"
+        "start": "Sun, 30 Apr 2023 11:00:00 GMT",
+        "end": "Sun, 30 Apr 2023 13:00:00 GMT"
       }
     ],
     "stats": {
@@ -169,32 +169,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-05-05T20:00:00+02:00",
-        "end": "2023-05-05T21:00:00+02:00"
+        "start": "Fri, 05 May 2023 18:00:00 GMT",
+        "end": "Fri, 05 May 2023 19:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-05-05T23:30:00+02:00",
-        "end": "2023-05-06T00:30:00+02:00"
+        "start": "Fri, 05 May 2023 21:30:00 GMT",
+        "end": "Fri, 05 May 2023 22:30:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-05-06T18:30:00+02:00",
-        "end": "2023-05-06T19:30:00+02:00"
+        "start": "Sat, 06 May 2023 16:30:00 GMT",
+        "end": "Sat, 06 May 2023 17:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-05-06T22:00:00+02:00",
-        "end": "2023-05-06T23:00:00+02:00"
+        "start": "Sat, 06 May 2023 20:00:00 GMT",
+        "end": "Sat, 06 May 2023 21:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-05-07T21:30:00+02:00",
-        "end": "2023-05-07T23:30:00+02:00"
+        "start": "Sun, 07 May 2023 19:30:00 GMT",
+        "end": "Sun, 07 May 2023 21:30:00 GMT"
       }
     ],
     "stats": {
@@ -210,32 +210,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-05-26T13:30:00+02:00",
-        "end": "2023-05-26T14:30:00+02:00"
+        "start": "Fri, 26 May 2023 11:30:00 GMT",
+        "end": "Fri, 26 May 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-05-26T17:00:00+02:00",
-        "end": "2023-05-26T18:00:00+02:00"
+        "start": "Fri, 26 May 2023 15:00:00 GMT",
+        "end": "Fri, 26 May 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-05-27T12:30:00+02:00",
-        "end": "2023-05-27T13:30:00+02:00"
+        "start": "Sat, 27 May 2023 10:30:00 GMT",
+        "end": "Sat, 27 May 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-05-27T16:00:00+02:00",
-        "end": "2023-05-27T17:00:00+02:00"
+        "start": "Sat, 27 May 2023 14:00:00 GMT",
+        "end": "Sat, 27 May 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-05-28T15:00:00+02:00",
-        "end": "2023-05-28T17:00:00+02:00"
+        "start": "Sun, 28 May 2023 13:00:00 GMT",
+        "end": "Sun, 28 May 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -251,32 +251,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-06-02T13:30:00+02:00",
-        "end": "2023-06-02T14:30:00+02:00"
+        "start": "Fri, 02 Jun 2023 11:30:00 GMT",
+        "end": "Fri, 02 Jun 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-06-02T17:00:00+02:00",
-        "end": "2023-06-02T18:00:00+02:00"
+        "start": "Fri, 02 Jun 2023 15:00:00 GMT",
+        "end": "Fri, 02 Jun 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-06-03T12:30:00+02:00",
-        "end": "2023-06-03T13:30:00+02:00"
+        "start": "Sat, 03 Jun 2023 10:30:00 GMT",
+        "end": "Sat, 03 Jun 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-06-03T16:00:00+02:00",
-        "end": "2023-06-03T17:00:00+02:00"
+        "start": "Sat, 03 Jun 2023 14:00:00 GMT",
+        "end": "Sat, 03 Jun 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-06-04T15:00:00+02:00",
-        "end": "2023-06-04T17:00:00+02:00"
+        "start": "Sun, 04 Jun 2023 13:00:00 GMT",
+        "end": "Sun, 04 Jun 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -292,32 +292,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-06-16T19:30:00+02:00",
-        "end": "2023-06-16T20:30:00+02:00"
+        "start": "Fri, 16 Jun 2023 17:30:00 GMT",
+        "end": "Fri, 16 Jun 2023 18:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-06-16T23:00:00+02:00",
-        "end": "2023-06-17T00:00:00+02:00"
+        "start": "Fri, 16 Jun 2023 21:00:00 GMT",
+        "end": "Fri, 16 Jun 2023 22:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-06-17T18:30:00+02:00",
-        "end": "2023-06-17T19:30:00+02:00"
+        "start": "Sat, 17 Jun 2023 16:30:00 GMT",
+        "end": "Sat, 17 Jun 2023 17:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-06-17T22:00:00+02:00",
-        "end": "2023-06-17T23:00:00+02:00"
+        "start": "Sat, 17 Jun 2023 20:00:00 GMT",
+        "end": "Sat, 17 Jun 2023 21:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-06-18T20:00:00+02:00",
-        "end": "2023-06-18T22:00:00+02:00"
+        "start": "Sun, 18 Jun 2023 18:00:00 GMT",
+        "end": "Sun, 18 Jun 2023 20:00:00 GMT"
       }
     ],
     "stats": {
@@ -333,32 +333,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-06-30T13:30:00+02:00",
-        "end": "2023-06-30T14:30:00+02:00"
+        "start": "Fri, 30 Jun 2023 11:30:00 GMT",
+        "end": "Fri, 30 Jun 2023 12:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-06-30T17:00:00+02:00",
-        "end": "2023-06-30T18:00:00+02:00"
+        "start": "Fri, 30 Jun 2023 15:00:00 GMT",
+        "end": "Fri, 30 Jun 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-07-01T12:30:00+02:00",
-        "end": "2023-07-01T13:30:00+02:00"
+        "start": "Sat, 01 Jul 2023 10:30:00 GMT",
+        "end": "Sat, 01 Jul 2023 11:30:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-07-01T16:30:00+02:00",
-        "end": "2023-07-01T17:30:00+02:00"
+        "start": "Sat, 01 Jul 2023 14:30:00 GMT",
+        "end": "Sat, 01 Jul 2023 15:30:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-07-02T15:00:00+02:00",
-        "end": "2023-07-02T17:00:00+02:00"
+        "start": "Sun, 02 Jul 2023 13:00:00 GMT",
+        "end": "Sun, 02 Jul 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -374,32 +374,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-07-07T13:30:00+02:00",
-        "end": "2023-07-07T14:30:00+02:00"
+        "start": "Fri, 07 Jul 2023 11:30:00 GMT",
+        "end": "Fri, 07 Jul 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-07-07T17:00:00+02:00",
-        "end": "2023-07-07T18:00:00+02:00"
+        "start": "Fri, 07 Jul 2023 15:00:00 GMT",
+        "end": "Fri, 07 Jul 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-07-08T12:30:00+02:00",
-        "end": "2023-07-08T13:30:00+02:00"
+        "start": "Sat, 08 Jul 2023 10:30:00 GMT",
+        "end": "Sat, 08 Jul 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-07-08T16:00:00+02:00",
-        "end": "2023-07-08T17:00:00+02:00"
+        "start": "Sat, 08 Jul 2023 14:00:00 GMT",
+        "end": "Sat, 08 Jul 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-07-09T16:00:00+02:00",
-        "end": "2023-07-09T18:00:00+02:00"
+        "start": "Sun, 09 Jul 2023 14:00:00 GMT",
+        "end": "Sun, 09 Jul 2023 16:00:00 GMT"
       }
     ],
     "stats": {
@@ -415,32 +415,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-07-21T13:30:00+02:00",
-        "end": "2023-07-21T14:30:00+02:00"
+        "start": "Fri, 21 Jul 2023 11:30:00 GMT",
+        "end": "Fri, 21 Jul 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-07-21T17:00:00+02:00",
-        "end": "2023-07-21T18:00:00+02:00"
+        "start": "Fri, 21 Jul 2023 15:00:00 GMT",
+        "end": "Fri, 21 Jul 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-07-22T12:30:00+02:00",
-        "end": "2023-07-22T13:30:00+02:00"
+        "start": "Sat, 22 Jul 2023 10:30:00 GMT",
+        "end": "Sat, 22 Jul 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-07-22T16:00:00+02:00",
-        "end": "2023-07-22T17:00:00+02:00"
+        "start": "Sat, 22 Jul 2023 14:00:00 GMT",
+        "end": "Sat, 22 Jul 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-07-23T15:00:00+02:00",
-        "end": "2023-07-23T17:00:00+02:00"
+        "start": "Sun, 23 Jul 2023 13:00:00 GMT",
+        "end": "Sun, 23 Jul 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -456,32 +456,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-07-28T13:30:00+02:00",
-        "end": "2023-07-28T14:30:00+02:00"
+        "start": "Fri, 28 Jul 2023 11:30:00 GMT",
+        "end": "Fri, 28 Jul 2023 12:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-07-28T17:00:00+02:00",
-        "end": "2023-07-28T18:00:00+02:00"
+        "start": "Fri, 28 Jul 2023 15:00:00 GMT",
+        "end": "Fri, 28 Jul 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-07-29T12:30:00+02:00",
-        "end": "2023-07-29T13:30:00+02:00"
+        "start": "Sat, 29 Jul 2023 10:30:00 GMT",
+        "end": "Sat, 29 Jul 2023 11:30:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-07-29T16:30:00+02:00",
-        "end": "2023-07-29T17:30:00+02:00"
+        "start": "Sat, 29 Jul 2023 14:30:00 GMT",
+        "end": "Sat, 29 Jul 2023 15:30:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-07-30T15:00:00+02:00",
-        "end": "2023-07-30T17:00:00+02:00"
+        "start": "Sun, 30 Jul 2023 13:00:00 GMT",
+        "end": "Sun, 30 Jul 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -497,32 +497,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-08-25T12:30:00+02:00",
-        "end": "2023-08-25T13:30:00+02:00"
+        "start": "Fri, 25 Aug 2023 10:30:00 GMT",
+        "end": "Fri, 25 Aug 2023 11:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-08-25T16:00:00+02:00",
-        "end": "2023-08-25T17:00:00+02:00"
+        "start": "Fri, 25 Aug 2023 14:00:00 GMT",
+        "end": "Fri, 25 Aug 2023 15:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-08-26T11:30:00+02:00",
-        "end": "2023-08-26T12:30:00+02:00"
+        "start": "Sat, 26 Aug 2023 09:30:00 GMT",
+        "end": "Sat, 26 Aug 2023 10:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-08-26T15:00:00+02:00",
-        "end": "2023-08-26T16:00:00+02:00"
+        "start": "Sat, 26 Aug 2023 13:00:00 GMT",
+        "end": "Sat, 26 Aug 2023 14:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-08-27T15:00:00+02:00",
-        "end": "2023-08-27T17:00:00+02:00"
+        "start": "Sun, 27 Aug 2023 13:00:00 GMT",
+        "end": "Sun, 27 Aug 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -538,32 +538,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-09-01T13:30:00+02:00",
-        "end": "2023-09-01T14:30:00+02:00"
+        "start": "Fri, 01 Sep 2023 11:30:00 GMT",
+        "end": "Fri, 01 Sep 2023 12:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-09-01T17:00:00+02:00",
-        "end": "2023-09-01T18:00:00+02:00"
+        "start": "Fri, 01 Sep 2023 15:00:00 GMT",
+        "end": "Fri, 01 Sep 2023 16:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-09-02T12:30:00+02:00",
-        "end": "2023-09-02T13:30:00+02:00"
+        "start": "Sat, 02 Sep 2023 10:30:00 GMT",
+        "end": "Sat, 02 Sep 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-09-02T16:00:00+02:00",
-        "end": "2023-09-02T17:00:00+02:00"
+        "start": "Sat, 02 Sep 2023 14:00:00 GMT",
+        "end": "Sat, 02 Sep 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-09-03T15:00:00+02:00",
-        "end": "2023-09-03T17:00:00+02:00"
+        "start": "Sun, 03 Sep 2023 13:00:00 GMT",
+        "end": "Sun, 03 Sep 2023 15:00:00 GMT"
       }
     ],
     "stats": {
@@ -579,32 +579,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-09-15T11:30:00+02:00",
-        "end": "2023-09-15T12:30:00+02:00"
+        "start": "Fri, 15 Sep 2023 09:30:00 GMT",
+        "end": "Fri, 15 Sep 2023 10:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-09-15T15:00:00+02:00",
-        "end": "2023-09-15T16:00:00+02:00"
+        "start": "Fri, 15 Sep 2023 13:00:00 GMT",
+        "end": "Fri, 15 Sep 2023 14:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-09-16T11:30:00+02:00",
-        "end": "2023-09-16T12:30:00+02:00"
+        "start": "Sat, 16 Sep 2023 09:30:00 GMT",
+        "end": "Sat, 16 Sep 2023 10:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-09-16T15:00:00+02:00",
-        "end": "2023-09-16T16:00:00+02:00"
+        "start": "Sat, 16 Sep 2023 13:00:00 GMT",
+        "end": "Sat, 16 Sep 2023 14:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-09-17T14:00:00+02:00",
-        "end": "2023-09-17T16:00:00+02:00"
+        "start": "Sun, 17 Sep 2023 12:00:00 GMT",
+        "end": "Sun, 17 Sep 2023 14:00:00 GMT"
       }
     ],
     "stats": {
@@ -620,32 +620,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-09-22T04:30:00+02:00",
-        "end": "2023-09-22T05:30:00+02:00"
+        "start": "Fri, 22 Sep 2023 02:30:00 GMT",
+        "end": "Fri, 22 Sep 2023 03:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-09-22T08:00:00+02:00",
-        "end": "2023-09-22T09:00:00+02:00"
+        "start": "Fri, 22 Sep 2023 06:00:00 GMT",
+        "end": "Fri, 22 Sep 2023 07:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-09-23T04:30:00+02:00",
-        "end": "2023-09-23T05:30:00+02:00"
+        "start": "Sat, 23 Sep 2023 02:30:00 GMT",
+        "end": "Sat, 23 Sep 2023 03:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-09-23T08:00:00+02:00",
-        "end": "2023-09-23T09:00:00+02:00"
+        "start": "Sat, 23 Sep 2023 06:00:00 GMT",
+        "end": "Sat, 23 Sep 2023 07:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-09-24T07:00:00+02:00",
-        "end": "2023-09-24T09:00:00+02:00"
+        "start": "Sun, 24 Sep 2023 05:00:00 GMT",
+        "end": "Sun, 24 Sep 2023 07:00:00 GMT"
       }
     ],
     "stats": {
@@ -661,32 +661,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-10-06T12:30:00+02:00",
-        "end": "2023-10-06T13:30:00+02:00"
+        "start": "Fri, 06 Oct 2023 10:30:00 GMT",
+        "end": "Fri, 06 Oct 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-10-06T16:00:00+02:00",
-        "end": "2023-10-06T17:00:00+02:00"
+        "start": "Fri, 06 Oct 2023 14:00:00 GMT",
+        "end": "Fri, 06 Oct 2023 15:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-10-07T12:30:00+02:00",
-        "end": "2023-10-07T13:30:00+02:00"
+        "start": "Sat, 07 Oct 2023 10:30:00 GMT",
+        "end": "Sat, 07 Oct 2023 11:30:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-10-07T16:30:00+02:00",
-        "end": "2023-10-07T17:30:00+02:00"
+        "start": "Sat, 07 Oct 2023 14:30:00 GMT",
+        "end": "Sat, 07 Oct 2023 15:30:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-10-08T16:00:00+02:00",
-        "end": "2023-10-08T18:00:00+02:00"
+        "start": "Sun, 08 Oct 2023 14:00:00 GMT",
+        "end": "Sun, 08 Oct 2023 16:00:00 GMT"
       }
     ],
     "stats": {
@@ -702,32 +702,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-10-20T19:30:00+02:00",
-        "end": "2023-10-20T20:30:00+02:00"
+        "start": "Fri, 20 Oct 2023 17:30:00 GMT",
+        "end": "Fri, 20 Oct 2023 18:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-10-20T23:00:00+02:00",
-        "end": "2023-10-21T00:00:00+02:00"
+        "start": "Fri, 20 Oct 2023 21:00:00 GMT",
+        "end": "Fri, 20 Oct 2023 22:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-10-21T20:00:00+02:00",
-        "end": "2023-10-21T21:00:00+02:00"
+        "start": "Sat, 21 Oct 2023 18:00:00 GMT",
+        "end": "Sat, 21 Oct 2023 19:00:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-10-22T00:00:00+02:00",
-        "end": "2023-10-22T01:00:00+02:00"
+        "start": "Sat, 21 Oct 2023 22:00:00 GMT",
+        "end": "Sat, 21 Oct 2023 23:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-10-22T21:00:00+02:00",
-        "end": "2023-10-22T23:00:00+02:00"
+        "start": "Sun, 22 Oct 2023 19:00:00 GMT",
+        "end": "Sun, 22 Oct 2023 21:00:00 GMT"
       }
     ],
     "stats": {
@@ -743,32 +743,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-10-27T20:30:00+02:00",
-        "end": "2023-10-27T21:30:00+02:00"
+        "start": "Fri, 27 Oct 2023 18:30:00 GMT",
+        "end": "Fri, 27 Oct 2023 19:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-10-28T00:00:00+02:00",
-        "end": "2023-10-28T01:30:00+02:00"
+        "start": "Fri, 27 Oct 2023 22:00:00 GMT",
+        "end": "Fri, 27 Oct 2023 23:30:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-10-28T19:30:00+02:00",
-        "end": "2023-10-28T18:30:00+02:00"
+        "start": "Sat, 28 Oct 2023 17:30:00 GMT",
+        "end": "Sat, 28 Oct 2023 16:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-10-28T23:00:00+02:00",
-        "end": "2023-10-29T00:00:00+02:00"
+        "start": "Sat, 28 Oct 2023 21:00:00 GMT",
+        "end": "Sat, 28 Oct 2023 22:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-10-29T21:00:00+01:00",
-        "end": "2023-10-29T23:00:00+01:00"
+        "start": "Sun, 29 Oct 2023 20:00:00 GMT",
+        "end": "Sun, 29 Oct 2023 22:00:00 GMT"
       }
     ],
     "stats": {
@@ -784,32 +784,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-11-03T15:30:00+01:00",
-        "end": "2023-11-03T16:30:00+01:00"
+        "start": "Fri, 03 Nov 2023 14:30:00 GMT",
+        "end": "Fri, 03 Nov 2023 15:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-11-03T19:00:00+01:00",
-        "end": "2023-11-03T20:00:00+01:00"
+        "start": "Fri, 03 Nov 2023 18:00:00 GMT",
+        "end": "Fri, 03 Nov 2023 19:00:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-11-04T15:30:00+01:00",
-        "end": "2023-11-04T16:30:00+01:00"
+        "start": "Sat, 04 Nov 2023 14:30:00 GMT",
+        "end": "Sat, 04 Nov 2023 15:30:00 GMT"
       },
       {
         "shortName": "Sprint",
         "longName": "Sprintrace",
-        "start": "2023-11-04T19:30:00+01:00",
-        "end": "2023-11-04T20:30:00+01:00"
+        "start": "Sat, 04 Nov 2023 18:30:00 GMT",
+        "end": "Sat, 04 Nov 2023 19:30:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-11-05T18:00:00+01:00",
-        "end": "2023-11-05T20:00:00+01:00"
+        "start": "Sun, 05 Nov 2023 17:00:00 GMT",
+        "end": "Sun, 05 Nov 2023 19:00:00 GMT"
       }
     ],
     "stats": {
@@ -825,32 +825,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-11-17T05:30:00+01:00",
-        "end": "2023-11-17T06:30:00+01:00"
+        "start": "Fri, 17 Nov 2023 04:30:00 GMT",
+        "end": "Fri, 17 Nov 2023 05:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-11-17T09:00:00+01:00",
-        "end": "2023-11-17T10:00:00+01:00"
+        "start": "Fri, 17 Nov 2023 08:00:00 GMT",
+        "end": "Fri, 17 Nov 2023 09:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-11-18T05:30:00+01:00",
-        "end": "2023-11-18T06:30:00+01:00"
+        "start": "Sat, 18 Nov 2023 04:30:00 GMT",
+        "end": "Sat, 18 Nov 2023 05:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-11-18T09:00:00+01:00",
-        "end": "2023-11-18T10:00:00+01:00"
+        "start": "Sat, 18 Nov 2023 08:00:00 GMT",
+        "end": "Sat, 18 Nov 2023 09:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-11-19T07:00:00+01:00",
-        "end": "2023-11-19T09:00:00+01:00"
+        "start": "Sun, 19 Nov 2023 06:00:00 GMT",
+        "end": "Sun, 19 Nov 2023 08:00:00 GMT"
       }
     ],
     "stats": {
@@ -866,32 +866,32 @@
       {
         "shortName": "FP1",
         "longName": "Free practice 1",
-        "start": "2023-11-24T10:30:00+01:00",
-        "end": "2023-11-24T11:30:00+01:00"
+        "start": "Fri, 24 Nov 2023 09:30:00 GMT",
+        "end": "Fri, 24 Nov 2023 10:30:00 GMT"
       },
       {
         "shortName": "FP2",
         "longName": "Free practice 2",
-        "start": "2023-11-24T14:00:00+01:00",
-        "end": "2023-11-24T15:00:00+01:00"
+        "start": "Fri, 24 Nov 2023 13:00:00 GMT",
+        "end": "Fri, 24 Nov 2023 14:00:00 GMT"
       },
       {
         "shortName": "FP3",
         "longName": "Free practice 3",
-        "start": "2023-11-25T11:30:00+01:00",
-        "end": "2023-11-25T12:30:00+01:00"
+        "start": "Sat, 25 Nov 2023 10:30:00 GMT",
+        "end": "Sat, 25 Nov 2023 11:30:00 GMT"
       },
       {
         "shortName": "Quali",
         "longName": "Qualification",
-        "start": "2023-11-25T15:00:00+01:00",
-        "end": "2023-11-25T16:00:00+01:00"
+        "start": "Sat, 25 Nov 2023 14:00:00 GMT",
+        "end": "Sat, 25 Nov 2023 15:00:00 GMT"
       },
       {
         "shortName": "Race",
         "longName": "Race",
-        "start": "2023-11-26T14:00:00+01:00",
-        "end": "2023-11-26T16:00:00+01:00"
+        "start": "Sun, 26 Nov 2023 13:00:00 GMT",
+        "end": "Sun, 26 Nov 2023 15:00:00 GMT"
       }
     ],
     "stats": {
