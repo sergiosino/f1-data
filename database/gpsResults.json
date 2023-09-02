@@ -35789,65 +35789,13 @@
           {
             "rank": 1,
             "abandoned": 0,
-            "result": "1:21.573",
+            "result": "1:20.294",
             "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 7,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 6
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Max Verstappen",
-              "firstName": "Max",
-              "lastName": "Verstappen",
-              "nameShort": "Verstappen",
-              "nameCode": "VER",
-              "nationality": "NLD"
-            },
-            "team": {
-              "name": "Red Bull Racing",
-              "nameShort": "Red Bull",
-              "nameCode": "RBR"
-            }
-          },
-          {
-            "rank": 2,
-            "abandoned": 0,
-            "result": "1:21.911",
-            "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 7,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 6
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Sergio Pérez",
-              "firstName": "Sergio",
-              "lastName": "Pérez",
-              "nameShort": "Pérez",
-              "nameCode": "PER",
-              "nationality": "MEX"
-            },
-            "team": {
-              "name": "Red Bull Racing",
-              "nameShort": "Red Bull",
-              "nameCode": "RBR"
-            }
-          },
-          {
-            "rank": 3,
-            "abandoned": 0,
-            "result": "1:21.965",
-            "tyre": {
-              "lapTime": "1:21.965",
-              "compound": "hard",
-              "lapsOverall": 5,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 3
+              "lapTime": "1:20.294",
+              "compound": "soft",
+              "lapsOverall": 3,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
             },
             "bestLapRewarded": false,
             "driver": {
@@ -35865,15 +35813,41 @@
             }
           },
           {
-            "rank": 4,
+            "rank": 2,
             "abandoned": 0,
-            "result": "1:21.996",
+            "result": "1:20.307",
             "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 6,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 6
+              "lapTime": "1:20.307",
+              "compound": "soft",
+              "lapsOverall": 2,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Max Verstappen",
+              "firstName": "Max",
+              "lastName": "Verstappen",
+              "nameShort": "Verstappen",
+              "nameCode": "VER",
+              "nationality": "NLD"
+            },
+            "team": {
+              "name": "Red Bull Racing",
+              "nameShort": "Red Bull",
+              "nameCode": "RBR"
+            }
+          },
+          {
+            "rank": 3,
+            "abandoned": 0,
+            "result": "1:20.361",
+            "tyre": {
+              "lapTime": "1:20.361",
+              "compound": "soft",
+              "lapsOverall": 2,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
             },
             "bestLapRewarded": false,
             "driver": {
@@ -35891,39 +35865,65 @@
             }
           },
           {
-            "rank": 5,
+            "rank": 4,
             "abandoned": 0,
-            "result": "1:22.043",
+            "result": "1:20.671",
             "tyre": {
-              "lapTime": "1:22.043",
-              "compound": "hard",
-              "lapsOverall": 5,
+              "lapTime": "1:20.671",
+              "compound": "soft",
+              "lapsOverall": 2,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
             "bestLapRewarded": false,
             "driver": {
-              "name": "Fernando Alonso",
-              "firstName": "Fernando",
-              "lastName": "Alonso",
-              "nameShort": "Alonso",
-              "nameCode": "ALO",
-              "nationality": "ESP"
+              "name": "George Russell",
+              "firstName": "George",
+              "lastName": "Russell",
+              "nameShort": "Russell",
+              "nameCode": "RUS",
+              "nationality": "GBR"
             },
             "team": {
-              "name": "Aston Martin F1 Team",
-              "nameShort": "Aston Martin",
-              "nameCode": "AMT"
+              "name": "Mercedes AMG F1",
+              "nameShort": "Mercedes",
+              "nameCode": "MER"
+            }
+          },
+          {
+            "rank": 5,
+            "abandoned": 0,
+            "result": "1:20.688",
+            "tyre": {
+              "lapTime": "1:20.688",
+              "compound": "soft",
+              "lapsOverall": 2,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Sergio Pérez",
+              "firstName": "Sergio",
+              "lastName": "Pérez",
+              "nameShort": "Pérez",
+              "nameCode": "PER",
+              "nationality": "MEX"
+            },
+            "team": {
+              "name": "Red Bull Racing",
+              "nameShort": "Red Bull",
+              "nameCode": "RBR"
             }
           },
           {
             "rank": 6,
             "abandoned": 0,
-            "result": "1:22.123",
+            "result": "1:20.760",
             "tyre": {
-              "lapTime": "1:22.123",
-              "compound": "hard",
-              "lapsOverall": 6,
+              "lapTime": "1:20.760",
+              "compound": "soft",
+              "lapsOverall": 2,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
@@ -35945,88 +35945,36 @@
           {
             "rank": 7,
             "abandoned": 0,
-            "result": "1:22.130",
+            "result": "1:20.785",
             "tyre": {
-              "lapTime": "1:22.130",
-              "compound": "hard",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Yuki Tsunoda",
-              "firstName": "Yuki",
-              "lastName": "Tsunoda",
-              "nameShort": "Tsunoda",
-              "nameCode": "TSU",
-              "nationality": "JPN"
-            },
-            "team": {
-              "name": "Scuderia AlphaTauri",
-              "nameShort": "AlphaTauri",
-              "nameCode": "SAT"
-            }
-          },
-          {
-            "rank": 8,
-            "abandoned": 0,
-            "result": "1:22.148",
-            "tyre": {
-              "lapTime": "1:22.247",
-              "compound": "hard",
+              "lapTime": "1:20.785",
+              "compound": "soft",
               "lapsOverall": 2,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
             "bestLapRewarded": false,
             "driver": {
-              "name": "George Russell",
-              "firstName": "George",
-              "lastName": "Russell",
-              "nameShort": "Russell",
-              "nameCode": "RUS",
-              "nationality": "GBR"
+              "name": "Oscar Piastri",
+              "firstName": "Oscar",
+              "lastName": "Piastri",
+              "nameShort": "Piastri",
+              "nameCode": "PIA",
+              "nationality": "AUS"
             },
             "team": {
-              "name": "Mercedes AMG F1",
-              "nameShort": "Mercedes",
-              "nameCode": "MER"
+              "name": "McLaren Racing",
+              "nameShort": "McLaren",
+              "nameCode": "MCL"
             }
           },
           {
-            "rank": 9,
+            "rank": 8,
             "abandoned": 0,
-            "result": "1:22.224",
+            "result": "1:20.820",
             "tyre": {
-              "lapTime": "1:22.224",
-              "compound": "hard",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Liam Lawson",
-              "firstName": "Liam",
-              "lastName": "Lawson",
-              "nameShort": "Lawson",
-              "nameCode": "LAW",
-              "nationality": "NZL"
-            },
-            "team": {
-              "name": "Scuderia AlphaTauri",
-              "nameShort": "AlphaTauri",
-              "nameCode": "SAT"
-            }
-          },
-          {
-            "rank": 10,
-            "abandoned": 0,
-            "result": "1:22.233",
-            "tyre": {
-              "lapTime": "1:22.233",
-              "compound": "hard",
+              "lapTime": "1:20.820",
+              "compound": "soft",
               "lapsOverall": 2,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
@@ -36047,65 +35995,13 @@
             }
           },
           {
-            "rank": 11,
+            "rank": 9,
             "abandoned": 0,
-            "result": "1:22.367",
+            "result": "1:20.979",
             "tyre": {
-              "lapTime": "1:22.367",
-              "compound": "hard",
-              "lapsOverall": 6,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Logan Sargeant",
-              "firstName": "Logan",
-              "lastName": "Sargeant",
-              "nameShort": "Sargeant",
-              "nameCode": "SAR",
-              "nationality": "USA"
-            },
-            "team": {
-              "name": "Williams Racing",
-              "nameShort": "Williams",
-              "nameCode": "WIL"
-            }
-          },
-          {
-            "rank": 12,
-            "abandoned": 0,
-            "result": "1:22.390",
-            "tyre": {
-              "lapTime": "1:22.390",
-              "compound": "hard",
-              "lapsOverall": 5,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Guanyu Zhou",
-              "firstName": "Guanyu",
-              "lastName": "Zhou",
-              "nameShort": "Zhou",
-              "nameCode": "ZHO",
-              "nationality": "CHN"
-            },
-            "team": {
-              "name": "Alfa Romeo Racing",
-              "nameShort": "Alfa Romeo",
-              "nameCode": "ARM"
-            }
-          },
-          {
-            "rank": 13,
-            "abandoned": 0,
-            "result": "1:22.457",
-            "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 1,
+              "lapTime": "1:21.028",
+              "compound": "soft",
+              "lapsOverall": 2,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
@@ -36125,13 +36021,117 @@
             }
           },
           {
+            "rank": 10,
+            "abandoned": 0,
+            "result": "1:21.417",
+            "tyre": {
+              "lapTime": "1:21.569",
+              "compound": "soft",
+              "lapsOverall": 2,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Fernando Alonso",
+              "firstName": "Fernando",
+              "lastName": "Alonso",
+              "nameShort": "Alonso",
+              "nameCode": "ALO",
+              "nationality": "ESP"
+            },
+            "team": {
+              "name": "Aston Martin F1 Team",
+              "nameShort": "Aston Martin",
+              "nameCode": "AMT"
+            }
+          },
+          {
+            "rank": 11,
+            "abandoned": 0,
+            "result": "1:21.594",
+            "tyre": {
+              "lapTime": "1:21.594",
+              "compound": "medium",
+              "lapsOverall": 3,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Yuki Tsunoda",
+              "firstName": "Yuki",
+              "lastName": "Tsunoda",
+              "nameShort": "Tsunoda",
+              "nameCode": "TSU",
+              "nationality": "JPN"
+            },
+            "team": {
+              "name": "Scuderia AlphaTauri",
+              "nameShort": "AlphaTauri",
+              "nameCode": "SAT"
+            }
+          },
+          {
+            "rank": 12,
+            "abandoned": 0,
+            "result": "1:21.758",
+            "tyre": {
+              "lapTime": "1:21.758",
+              "compound": "medium",
+              "lapsOverall": 3,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Liam Lawson",
+              "firstName": "Liam",
+              "lastName": "Lawson",
+              "nameShort": "Lawson",
+              "nameCode": "LAW",
+              "nationality": "NZL"
+            },
+            "team": {
+              "name": "Scuderia AlphaTauri",
+              "nameShort": "AlphaTauri",
+              "nameCode": "SAT"
+            }
+          },
+          {
+            "rank": 13,
+            "abandoned": 0,
+            "result": "1:21.776",
+            "tyre": {
+              "lapTime": "1:21.838",
+              "compound": "medium",
+              "lapsOverall": 3,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Nico Hulkenberg",
+              "firstName": "Nico",
+              "lastName": "Hulkenberg",
+              "nameShort": "Hülkenberg",
+              "nameCode": "HUL",
+              "nationality": "DEU"
+            },
+            "team": {
+              "name": "Haas F1",
+              "nameShort": "Haas",
+              "nameCode": "HAA"
+            }
+          },
+          {
             "rank": 14,
             "abandoned": 0,
-            "result": "1:22.658",
+            "result": "1:21.940",
             "tyre": {
-              "lapTime": "1:22.658",
-              "compound": "hard",
-              "lapsOverall": 5,
+              "lapTime": "1:21.940",
+              "compound": "medium",
+              "lapsOverall": 3,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
@@ -36153,37 +36153,63 @@
           {
             "rank": 15,
             "abandoned": 0,
-            "result": "1:22.853",
+            "result": "1:21.944",
             "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 1,
+              "lapTime": "1:22.427",
+              "compound": "medium",
+              "lapsOverall": 3,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
             "bestLapRewarded": false,
             "driver": {
-              "name": "Kevin Magnussen",
-              "firstName": "Kevin",
-              "lastName": "Magnussen",
-              "nameShort": "Magnussen",
-              "nameCode": "MAG",
-              "nationality": "DEN"
+              "name": "Logan Sargeant",
+              "firstName": "Logan",
+              "lastName": "Sargeant",
+              "nameShort": "Sargeant",
+              "nameCode": "SAR",
+              "nationality": "USA"
             },
             "team": {
-              "name": "Haas F1",
-              "nameShort": "Haas",
-              "nameCode": "HAA"
+              "name": "Williams Racing",
+              "nameShort": "Williams",
+              "nameCode": "WIL"
             }
           },
           {
             "rank": 16,
             "abandoned": 0,
-            "result": "1:22.862",
+            "result": "1:22.390",
             "tyre": {
-              "lapTime": "1:22.862",
+              "lapTime": "1:22.429",
               "compound": "hard",
-              "lapsOverall": 4,
+              "lapsOverall": 3,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Guanyu Zhou",
+              "firstName": "Guanyu",
+              "lastName": "Zhou",
+              "nameShort": "Zhou",
+              "nameCode": "ZHO",
+              "nationality": "CHN"
+            },
+            "team": {
+              "name": "Alfa Romeo Racing",
+              "nameShort": "Alfa Romeo",
+              "nameCode": "ARM"
+            }
+          },
+          {
+            "rank": 17,
+            "abandoned": 0,
+            "result": "1:22.545",
+            "tyre": {
+              "lapTime": "1:22.545",
+              "compound": "hard",
+              "lapsOverall": 3,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
@@ -36203,65 +36229,13 @@
             }
           },
           {
-            "rank": 17,
-            "abandoned": 0,
-            "result": "1:22.987",
-            "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 1,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Oscar Piastri",
-              "firstName": "Oscar",
-              "lastName": "Piastri",
-              "nameShort": "Piastri",
-              "nameCode": "PIA",
-              "nationality": "AUS"
-            },
-            "team": {
-              "name": "McLaren Racing",
-              "nameShort": "McLaren",
-              "nameCode": "MCL"
-            }
-          },
-          {
             "rank": 18,
             "abandoned": 0,
-            "result": "1:22.988",
+            "result": "1:22.548",
             "tyre": {
-              "lapTime": null,
+              "lapTime": "1:22.548",
               "compound": "hard",
-              "lapsOverall": 1,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
-            "bestLapRewarded": false,
-            "driver": {
-              "name": "Nico Hulkenberg",
-              "firstName": "Nico",
-              "lastName": "Hulkenberg",
-              "nameShort": "Hülkenberg",
-              "nameCode": "HUL",
-              "nationality": "DEU"
-            },
-            "team": {
-              "name": "Haas F1",
-              "nameShort": "Haas",
-              "nameCode": "HAA"
-            }
-          },
-          {
-            "rank": 19,
-            "abandoned": 0,
-            "result": "1:23.276",
-            "tyre": {
-              "lapTime": "1:23.248",
-              "compound": "hard",
-              "lapsOverall": 5,
+              "lapsOverall": 3,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
@@ -36281,13 +36255,39 @@
             }
           },
           {
+            "rank": 19,
+            "abandoned": 0,
+            "result": "1:22.592",
+            "tyre": {
+              "lapTime": "1:22.592",
+              "compound": "hard",
+              "lapsOverall": 4,
+              "newWhenFitted": true,
+              "lapsWhenFitted": 0
+            },
+            "bestLapRewarded": false,
+            "driver": {
+              "name": "Kevin Magnussen",
+              "firstName": "Kevin",
+              "lastName": "Magnussen",
+              "nameShort": "Magnussen",
+              "nameCode": "MAG",
+              "nationality": "DEN"
+            },
+            "team": {
+              "name": "Haas F1",
+              "nameShort": "Haas",
+              "nameCode": "HAA"
+            }
+          },
+          {
             "rank": 20,
             "abandoned": 0,
-            "result": "1:23.576",
+            "result": "1:22.860",
             "tyre": {
-              "lapTime": null,
+              "lapTime": "1:22.860",
               "compound": "hard",
-              "lapsOverall": 1,
+              "lapsOverall": 5,
               "newWhenFitted": true,
               "lapsWhenFitted": 0
             },
