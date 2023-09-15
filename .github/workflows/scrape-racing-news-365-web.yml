@@ -1,4 +1,4 @@
-name: Scrape racingnews365 web to refresh gps results
+name: Scrape
 
 on:
   workflow_dispatch:
