@@ -10,37 +10,39 @@ export default function GpCard(props) {
   const month = shortMonth(start)
 
   return (
-    <fieldset className='race-border-container'>
-      <legend>ROUND {round}</legend>
-      <div className='mt-5'>
-        <div className='event-info-date'>
-          <div className='date-flag-container'>
-            <h2>{date}</h2>
-            <div className='flag-container'>
-              <img src={`flags/${flag}`} alt='GP country flag' />
+    <a href='/'>
+      <fieldset className='race-border-container'>
+        <legend>ROUND {round}</legend>
+        <div className='mt-5'>
+          <div className='event-info-date'>
+            <div className='date-flag-container'>
+              <h2>{date}</h2>
+              <div className='flag-container'>
+                <img src={`flags/${flag}`} alt='GP country flag' />
+              </div>
+            </div>
+            <div className='mt-5'>
+              <span className='font-f1 month-container'>
+                {month}
+              </span>
             </div>
           </div>
-          <div className='mt-5'>
-            <span className='font-f1 month-container'>
-              {month}
-            </span>
+          <div className='event-info-description'>
+            <h3>{country}<span className='color-red'>{' >'}</span></h3>
+            <p>{name}</p>
           </div>
+          {isCompleted && (
+            <div className='event-info-top-3'>
+              {topThree.map(({ rank, nameCode, image }) => {
+                return (
+                  <TopThreeDriver key={rank} rank={rank} name={nameCode} image={image} />
+                )
+              })}
+            </div>
+          )}
         </div>
-        <div className='event-info-description'>
-          <h3>{country}<span className='color-red'>{' >'}</span></h3>
-          <p>{name}</p>
-        </div>
-        {isCompleted && (
-          <div className='event-info-top-3'>
-            {topThree.map(({ rank, nameCode, image }) => {
-              return (
-                <TopThreeDriver key={rank} rank={rank} name={nameCode} image={image} />
-              )
-            })}
-          </div>
-        )}
-      </div>
-    </fieldset >
+      </fieldset >
+    </a>
   )
 }
 

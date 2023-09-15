@@ -47,6 +47,11 @@ legend {
     padding-right: 10px;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 .font-f1 {
     font-family: Formula1;
 }
