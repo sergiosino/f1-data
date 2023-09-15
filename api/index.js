@@ -42,7 +42,7 @@ app.get('/gps', (ctx) => {
                 return {
                     rank,
                     nameCode,
-                    image: `${nameCodeLowerCase}.avif`
+                    image: `${nameCodeLowerCase}.png`
                 }
             })
         }
