@@ -1,6 +1,7 @@
 name: Deploy API
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Scrape"]
     types:
