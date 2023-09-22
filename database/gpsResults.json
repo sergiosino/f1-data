@@ -39984,13 +39984,7 @@
             "rank": 1,
             "abandoned": 0,
             "result": "1:30.688",
-            "tyre": {
-              "lapTime": "1:30.688",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Max Verstappen",
@@ -40010,13 +40004,7 @@
             "rank": 2,
             "abandoned": 0,
             "result": "1:31.008",
-            "tyre": {
-              "lapTime": "1:31.008",
-              "compound": "soft",
-              "lapsOverall": 5,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Charles Leclerc",
@@ -40036,13 +40024,7 @@
             "rank": 3,
             "abandoned": 0,
             "result": "1:31.152",
-            "tyre": {
-              "lapTime": "1:31.152",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Lando Norris",
@@ -40062,13 +40044,7 @@
             "rank": 4,
             "abandoned": 0,
             "result": "1:31.237",
-            "tyre": {
-              "lapTime": "1:31.237",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Carlos Sainz",
@@ -40088,13 +40064,7 @@
             "rank": 5,
             "abandoned": 0,
             "result": "1:31.328",
-            "tyre": {
-              "lapTime": "1:31.328",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "George Russell",
@@ -40114,13 +40084,7 @@
             "rank": 6,
             "abandoned": 0,
             "result": "1:31.492",
-            "tyre": {
-              "lapTime": "1:31.492",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Fernando Alonso",
@@ -40140,13 +40104,7 @@
             "rank": 7,
             "abandoned": 0,
             "result": "1:31.555",
-            "tyre": {
-              "lapTime": "1:31.555",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Alexander Albon",
@@ -40166,13 +40124,7 @@
             "rank": 8,
             "abandoned": 0,
             "result": "1:31.662",
-            "tyre": {
-              "lapTime": "1:31.662",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Oscar Piastri",
@@ -40192,13 +40144,7 @@
             "rank": 9,
             "abandoned": 0,
             "result": "1:31.710",
-            "tyre": {
-              "lapTime": "1:31.710",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Sergio Pérez",
@@ -40218,13 +40164,7 @@
             "rank": 10,
             "abandoned": 0,
             "result": "1:31.739",
-            "tyre": {
-              "lapTime": "1:31.739",
-              "compound": "soft",
-              "lapsOverall": 5,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Valtteri Bottas",
@@ -40244,13 +40184,7 @@
             "rank": 11,
             "abandoned": 0,
             "result": "1:31.771",
-            "tyre": {
-              "lapTime": "1:31.771",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Lance Stroll",
@@ -40270,13 +40204,7 @@
             "rank": 12,
             "abandoned": 0,
             "result": "1:31.794",
-            "tyre": {
-              "lapTime": "1:31.794",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Esteban Ocon",
@@ -40296,13 +40224,7 @@
             "rank": 13,
             "abandoned": 0,
             "result": "1:31.797",
-            "tyre": {
-              "lapTime": null,
-              "compound": "soft",
-              "lapsOverall": 5,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 4
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Nico Hulkenberg",
@@ -40322,13 +40244,7 @@
             "rank": 14,
             "abandoned": 0,
             "result": "1:31.829",
-            "tyre": {
-              "lapTime": "1:31.829",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Lewis Hamilton",
@@ -40348,13 +40264,7 @@
             "rank": 15,
             "abandoned": 0,
             "result": "1:32.141",
-            "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 6,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 5
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Liam Lawson",
@@ -40374,13 +40284,7 @@
             "rank": 16,
             "abandoned": 0,
             "result": "1:32.165",
-            "tyre": {
-              "lapTime": null,
-              "compound": "hard",
-              "lapsOverall": 3,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 2
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Guanyu Zhou",
@@ -40400,13 +40304,7 @@
             "rank": 17,
             "abandoned": 0,
             "result": "1:32.169",
-            "tyre": {
-              "lapTime": "1:32.169",
-              "compound": "soft",
-              "lapsOverall": 5,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Kevin Magnussen",
@@ -40426,13 +40324,7 @@
             "rank": 18,
             "abandoned": 0,
             "result": "1:32.178",
-            "tyre": {
-              "lapTime": "1:32.178",
-              "compound": "soft",
-              "lapsOverall": 3,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Yuki Tsunoda",
@@ -40452,13 +40344,7 @@
             "rank": 19,
             "abandoned": 0,
             "result": "1:32.179",
-            "tyre": {
-              "lapTime": null,
-              "compound": "medium",
-              "lapsOverall": 7,
-              "newWhenFitted": false,
-              "lapsWhenFitted": 6
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Pierre Gasly",
@@ -40478,13 +40364,7 @@
             "rank": 20,
             "abandoned": 0,
             "result": "1:32.320",
-            "tyre": {
-              "lapTime": "1:32.320",
-              "compound": "soft",
-              "lapsOverall": 5,
-              "newWhenFitted": true,
-              "lapsWhenFitted": 0
-            },
+            "tyre": [],
             "bestLapRewarded": false,
             "driver": {
               "name": "Logan Sargeant",
